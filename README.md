@@ -2,6 +2,7 @@
 This is my version of anax, a webbtemplate originally created by Mikael Roos all credits go to him. 
 Link to the original: https://github.com/mosbth/Anax-base
 My additions to the webbtemplate:
+
 Functions folder (2015-05-20) 
 Used to include functions into the project that you want to access from your classes and anywhere 
 else in the code as easily as possible. Without the need for a singleton or other design pattern.
@@ -41,5 +42,6 @@ All rights reserved. Path: included in scelus\src\CTextFilter\php-markdown\
 
 # CSource class
 The MIT License (MIT) Copyright (c) 2013 Mikael Roos (me@mikaelroos.se) Path: included in scelus\src\CSource\
-History
+
+# History
 v1.0 (2015-06-07) Uploaded the entire webbtemplate with my own additions.
