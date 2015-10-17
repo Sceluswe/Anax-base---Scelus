@@ -1,6 +1,7 @@
 # Anax-base---Scelus
 This is my version of anax, a webbtemplate originally created by Mikael Roos all credits go to him. 
 Link to the original: https://github.com/mosbth/Anax-base
+
 My additions to the webbtemplate:
 
 Functions folder (2015-05-20) 
@@ -21,6 +22,7 @@ This was developed during another course with the guidance of Mikael Roos and is
 
 # Special mention
 function get_substr($string, $first, $last) Since I could not find a PHP equivalent of this function I implemented my own. It returns a substring of the parameter string based on whatever it finds inbetween the first and last parameter values. Mentioning that here in case someone can make use of it, improve it, etc. Or perhaps completely destroy it's purpose by pointing me to an already built-in function.
+
 CTextFilter A class provided in afore mentioned course allowing formating of text into various formats.
 
 # License
