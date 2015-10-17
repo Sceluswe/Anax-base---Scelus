@@ -20,6 +20,8 @@ from others when the code is displayed on your site. This feature was implemente
 CImage class (2015-04-01) A class allowing the programmer to edit images without the need for an external program. 
 This was developed during another course with the guidance of Mikael Roos and is mainly based on his (the original authors) code.
 
+CUpload class (2015-10-17) A class that allows the user to upload png and jpg images. (Will extend this to include .gifs in a separate projekt.)
+
 # Special mention
 function get_substr($string, $first, $last) Since I could not find a PHP equivalent of this function I implemented my own. It returns a substring of the parameter string based on whatever it finds inbetween the first and last parameter values. Mentioning that here in case someone can make use of it, improve it, etc. Or perhaps completely destroy it's purpose by pointing me to an already built-in function.
 
