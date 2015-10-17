@@ -48,4 +48,5 @@ All rights reserved. Path: included in scelus\src\CTextFilter\php-markdown\
 The MIT License (MIT) Copyright (c) 2013 Mikael Roos (me@mikaelroos.se) Path: included in scelus\src\CSource\
 
 # History
+v1.1 (2015-10-17) Added a mention and description of the CUpload class.
 v1.0 (2015-06-07) Uploaded the entire webbtemplate with my own additions.
